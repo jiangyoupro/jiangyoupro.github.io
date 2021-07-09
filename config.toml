@@ -4,7 +4,7 @@ languageCode = "en"
 # [en, zh, ...] determines which i18n file to use
 defaultContentLanguage = "en"
 # website title
-title = "Shuzang's Blog"
+title = "Jiangyou's Blog"
 # theme
 theme = "LoveIt"
 # whether to use git commit log to generate lastmod record
@@ -56,8 +56,8 @@ dateFormatToUse = "2006-01-02"
 
 # Author Info
 [author]
-  name = "shuzang"
-  link = "https://shuzang.github.io/about/"
+  name = "jiangyou"
+  link = "https://jiangyoupro.github.io/about/"
 
 # Sitemap Info
 [sitemap]
@@ -128,7 +128,7 @@ dateFormatToUse = "2006-01-02"
 
   # Footer CopyRight Info
   ## Site creation time
-  since = 2018
+  since = 2021
   ## ICP info only in China (HTML format is allowed)
   icp = ""
   ## license info (HTML format is allowed)
@@ -181,10 +181,10 @@ dateFormatToUse = "2006-01-02"
 
   # Social Info in home page
   [params.social]
-    Email = "lylw1996@qq.com"
-    Skype = "live:844327696"
-    GitHub = "shuzang"  
-    bilibili = "15452558"
+    #Email = "lylw1996@qq.com"
+    #Skype = "live:844327696"
+    GitHub = "jiangyoupro"  
+    #bilibili = "15452558"
     
     #Linkedin = "xxxx"
     #Twitter = "xxxx"
