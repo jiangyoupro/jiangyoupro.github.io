@@ -121,7 +121,7 @@ dateFormatToUse = "2006-01-02"
   ## URL of avatar shown in home page
   avatar = "images/avatar.png"
   ## subtitle shown in home page
-  subtitle = "随心所向，素履以往"
+  subtitle = ""
 
   # whether to show social share links in post page
   socialShare = true
